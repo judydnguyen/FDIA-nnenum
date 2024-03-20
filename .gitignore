@@ -1,3 +1,5 @@
+/fdia_data/**
+/np_data/**
 *~
 *.pyc
 .directory
